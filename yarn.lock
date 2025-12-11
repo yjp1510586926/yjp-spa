@@ -1944,6 +1944,11 @@ ieee754@^1.1.13:
   resolved "https://registry.yarnpkg.com/ieee754/-/ieee754-1.2.1.tgz#8eb7a10a63fff25d15a57b001586d177d1b0d352"
   integrity sha512-dcyqhDvX1C46lXZcVqCpK+FtMRQVdIMN6/Df5js2zouUsqG7I6sFxitIC+7KYK29KdXOLHdu9zL4sFnoVQnqaA==
 
+immer@^11.0.1:
+  version "11.0.1"
+  resolved "https://registry.yarnpkg.com/immer/-/immer-11.0.1.tgz#2191adadc17afc94553bfb7a4c0ca95e55ec2489"
+  integrity sha512-naDCyggtcBWANtIrjQEajhhBEuL9b0Zg4zmlWK2CzS6xCWSE39/vvf4LqnMjUAWHBhot4m9MHCM/Z+mfWhUkiA==
+
 import-local@^3.0.2:
   version "3.2.0"
   resolved "https://registry.npmjs.org/import-local/-/import-local-3.2.0.tgz"
@@ -2115,6 +2120,16 @@ jest-worker@^27.4.5:
     "@types/node" "*"
     merge-stream "^2.0.0"
     supports-color "^8.0.0"
+
+jotai-immer@^0.4.1:
+  version "0.4.1"
+  resolved "https://registry.yarnpkg.com/jotai-immer/-/jotai-immer-0.4.1.tgz#30da13384d7d8341685c79aa78cffa19756c8832"
+  integrity sha512-nQTt1HBKie/5OJDck1qLpV1PeBA6bjJLAczEYAx70PD8R4Mbu7gtexfBUCzJh6W6ecsOfwHksAYAesVth6SN9A==
+
+jotai@^2.16.0:
+  version "2.16.0"
+  resolved "https://registry.yarnpkg.com/jotai/-/jotai-2.16.0.tgz#454d29597cbdcbf42adb5dd79c3f81e3aa2d3abb"
+  integrity sha512-NmkwPBet0SHQ28GBfEb10sqnbVOYyn6DL4iazZgGRDUKxSWL0iqcm+IK4TqTSFC2ixGk+XX2e46Wbv364a3cKg==
 
 jsbn@~0.1.0:
   version "0.1.1"

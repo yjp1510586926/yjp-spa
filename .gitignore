@@ -24,9 +24,10 @@ yarn-debug.log*
 yarn-error.log*
 lerna-debug.log*
 .pnpm-debug.log*
-
+.vscode
 # Editor directories and files
 .vscode/*
+!.vscode/settings.json
 !.vscode/extensions.json
 .idea
 .DS_Store
