@@ -1,8 +1,8 @@
 {
-  "*.{js,jsx,ts,tsx}": [
-    "biome check --write --no-errors-on-unmatched",
-    "biome format --write"
-  ],
-  "*.{css,scss,less}": ["biome format --write"],
-  "*.{json,md,yml,yaml}": ["biome format --write"]
+	"*.{js,jsx,ts,tsx}": [
+		"biome check --write --no-errors-on-unmatched",
+		"biome format --write"
+	],
+	"*.{css,scss,less}": ["biome format --write"],
+	"*.{json,md,yml,yaml}": ["biome format --write"]
 }
